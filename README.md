@@ -12,9 +12,8 @@ Through the Data Analysis track, I’ve gained practical experience using Micros
 - [Explanatory Data Analysis](#explanatory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [My Analysis](#my-analysis)
-- [Conclusion](#conclusion)
-- [Next Steps](#next-steps)
-- [Feedback](#feedback)
+- [My Recommendation](#my-recommendation)
+  
 
 ## Project Topic
 **Amazon Product Review Analysis**
@@ -69,13 +68,23 @@ This section outlines some of the key queries and functions applied during the a
 
 ## My Analysis
 - The majority of the products are priced over ₹500  
-- Electronics and Computer Accessories have the highest potential revenue, discounts, and review volumes  
+- Electronics and Computer Accessories have the highest potential revenue, discounts, and review volumes
+- A significant number of products (1,137) have fewer than 1,000 reviews, indicating many products lack customer engagement
+- Majority of products are rated 4 stars (1,318) and 5 stars (104).
 - Only a few categories (Electronics, Computer Accessories, and Home & Kitchen) contribute most of the revenue, while the majority contribute far less  
-- Higher discounts do not necessarily lead to higher ratings
+- Higher discounts can potentially lead to higher ratings and generate more revenue
+
+
+
 
 ## My Recommendation
 This project helped me develop practical skills in data cleaning, analysis, and visualization using Excel. I discovered how to interpret raw product data and convert it into meaningful business insights.  
-A key takeaway is that adiscounting does not automatically improve customer satisfaction or product ratings, businesses should evaluate multiple factors when optimizing product strategies.
+My key takeaways are ;
+-The business should invest more in Electronics and Computer Accessories as they show the highest revenue potential.
+- High discounts (91–100%) are associated with higher ratings, the business should consider offering limited-time high discounts to boost product visibility and customer reviews especially for products generating less revenue.
+
+
+
 
 
 
