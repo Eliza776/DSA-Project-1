@@ -74,9 +74,7 @@ This section outlines some of the key queries and functions applied during the a
 - Only a few categories (Electronics, Computer Accessories, and Home & Kitchen) contribute most of the revenue, while the majority contribute far less  
 - Higher discounts can potentially lead to higher ratings and generate more revenue
 
-
-
-
+  
 ## My Recommendation
 This project helped me develop practical skills in data cleaning, analysis, and visualization using Excel. I discovered how to interpret raw product data and convert it into meaningful business insights.  
 My key takeaways are ;
