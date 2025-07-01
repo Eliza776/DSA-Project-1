@@ -67,7 +67,7 @@ This section outlines some of the key queries and functions applied during the a
   - `price_bucket = IF(price < 200, ..., ...)`
 
 ## My Analysis
-- The majority of the products are priced over ₹500  
+- Majority of the products are priced over ₹500  
 - Electronics and Computer Accessories have the highest potential revenue, discounts, and review volumes
 - A significant number of products (1,137) have fewer than 1,000 reviews, indicating many products lack customer engagement
 - Majority of products are rated 4 stars (1,318) and 5 stars (104).
