@@ -74,6 +74,7 @@ This section outlines some of the key queries and functions applied during the a
 - Only a few categories (Electronics, Computer Accessories, and Home & Kitchen) contribute most of the revenue, while the majority contribute far less  
 - Higher discounts can potentially lead to higher ratings and generate more revenue
 ![Dashboard1](https://github.com/Eliza776/DSA-Project-1/blob/main/Amazon%20analysis%201.png)
+![Dashboard2](https://github.com/Eliza776/DSA-Project-1/blob/main/Amazon%20analysis%202.png)
   
 
 
