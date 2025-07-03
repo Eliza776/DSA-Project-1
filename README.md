@@ -103,7 +103,7 @@ This section outlines some of the key queries and functions applied during the a
 
 ![image](https://github.com/user-attachments/assets/f0016cf6-785e-4c14-b2be-e43f050fc75c)
 
-![image](https://github.com/user-attachments/assets/fa7cd278-9a88-40f3-af88-241c2a490408)
+
 
 
 Pivot Table
