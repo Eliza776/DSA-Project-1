@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36362359-698e-49a2-b8ec-7deb240f9bf4)# DSA-Project 1
+# DSA-Project 1
 
 This is my first portfolio project, created as part of my learning journey at the Incubator Hub.  
 Through the Data Analysis track, I’ve gained practical experience using Microsoft Excel, SQL, and Power BI to explore and visualize real-world data.
