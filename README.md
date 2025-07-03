@@ -105,8 +105,7 @@ This section outlines some of the key queries and functions applied during the a
 ![image](https://github.com/user-attachments/assets/1789334e-2e11-4a2a-bb1b-91adf525ec44)
 
 
-
-###Pivot Table
+- Pivot Table
 
 ![image](https://github.com/user-attachments/assets/7af67e1e-7bc7-475e-add7-a5432ebd9c33)
 
