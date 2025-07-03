@@ -125,10 +125,6 @@ Pivot Table
 ![image](https://github.com/user-attachments/assets/8ef2771f-414d-4c7c-ac38-749b6d4a91fd)
 
 
-![image](https://github.com/user-attachments/assets/00538cc1-4995-448d-a0d9-ae64fab4219b)
-
-
-
 ![image](https://github.com/user-attachments/assets/a40ed739-606e-4c30-9724-331eb8be651e)
 
 
