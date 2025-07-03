@@ -101,12 +101,12 @@ This section outlines some of the key queries and functions applied during the a
 
 ![image](https://github.com/user-attachments/assets/4024a8c8-f1e3-4116-9dea-778b9e3e9552)
 
-![image](https://github.com/user-attachments/assets/f0016cf6-785e-4c14-b2be-e43f050fc75c)
+![image](https://github.com/user-attachments/assets/f0016cf6-785e-4c14-b2b-e43f050fc75c)
 
 
 
 
-Pivot Table
+-Pivot Table
 
 ![image](https://github.com/user-attachments/assets/7af67e1e-7bc7-475e-add7-a5432ebd9c33)
 
