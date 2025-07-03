@@ -76,13 +76,40 @@ This section outlines some of the key queries and functions applied during the a
 
 
 ![image](https://github.com/user-attachments/assets/d2caa229-15e7-461c-a891-9d1c84b8735c)
+
  ![image](https://github.com/user-attachments/assets/8f5dfa13-e8d7-4ed7-ba4f-44e7c9d22899)
+ 
 ![image](https://github.com/user-attachments/assets/4bea0d9e-39b3-4d98-ba84-cf5c1be1e2c3)
+
 ![image](https://github.com/user-attachments/assets/b6643faf-7054-458b-a97d-9fa60ff24db9)
+
 ![image](https://github.com/user-attachments/assets/bc3701ea-d491-4a92-8cc4-40c61f22ea48)
+
 ![image](https://github.com/user-attachments/assets/315d3380-e546-44d5-a42f-fd1ec570c767)
+
 ![image](https://github.com/user-attachments/assets/f8e38cd5-fbaa-4638-b29b-ac6dd4861268)
+
 ![image](https://github.com/user-attachments/assets/2a66bd35-5c2e-49fa-b833-a207535930c2)
+
+![image](https://github.com/user-attachments/assets/3f71e864-4971-471f-af2f-ce74645e46f5)
+
+![image](https://github.com/user-attachments/assets/c58b7610-5e82-46a2-a8a1-fdb9af80f5bf)
+
+![image](https://github.com/user-attachments/assets/359f58a4-112a-4313-b8cc-8a359cfccc15)
+
+![image](https://github.com/user-attachments/assets/6740e921-786c-463d-a4e5-4ae2cd762d76)
+
+![image](https://github.com/user-attachments/assets/4024a8c8-f1e3-4116-9dea-778b9e3e9552)
+
+![image](https://github.com/user-attachments/assets/f0016cf6-785e-4c14-b2be-e43f050fc75c)
+
+
+
+
+
+
+
+
 
 
 
