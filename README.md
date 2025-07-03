@@ -75,10 +75,21 @@ This section outlines some of the key queries and functions applied during the a
 - Higher discounts can potentially lead to higher ratings and generate more revenue
 
 
-  
-![Dashboard1](https://github.com/Eliza776/DSA-Project-1/blob/main/Amazon%20analysis%201.png)
-![Dashboard2](https://github.com/Eliza776/DSA-Project-1/blob/main/Amazon%20analysis%202.png)
-  
+![image](https://github.com/user-attachments/assets/d2caa229-15e7-461c-a891-9d1c84b8735c)
+ ![image](https://github.com/user-attachments/assets/8f5dfa13-e8d7-4ed7-ba4f-44e7c9d22899)
+![image](https://github.com/user-attachments/assets/4bea0d9e-39b3-4d98-ba84-cf5c1be1e2c3)
+![image](https://github.com/user-attachments/assets/b6643faf-7054-458b-a97d-9fa60ff24db9)
+![image](https://github.com/user-attachments/assets/bc3701ea-d491-4a92-8cc4-40c61f22ea48)
+![image](https://github.com/user-attachments/assets/315d3380-e546-44d5-a42f-fd1ec570c767)
+![image](https://github.com/user-attachments/assets/f8e38cd5-fbaa-4638-b29b-ac6dd4861268)
+![image](https://github.com/user-attachments/assets/2a66bd35-5c2e-49fa-b833-a207535930c2)
+
+
+
+
+
+
+
 
 
   
